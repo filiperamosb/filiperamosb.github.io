@@ -126,7 +126,7 @@ video {
 .bio {
   font-size: 1em;
   /* Tamanho reduzido do texto da bio */
-  margin-top: 10px;
+  margin-top: 18px;
   /* Espaçamento entre a bio e as badges */
   opacity: 0.8;
 }
