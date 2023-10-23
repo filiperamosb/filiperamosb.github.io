@@ -402,6 +402,6 @@ video {
   word-break: break-all;
   text-overflow: ellipsis;
   overflow: hidden !important;
-  max-height: 130px;
+  max-height: 80px;
   font-size: 10px;
 }
