@@ -69,7 +69,7 @@ video {
   font-size: 0.9em;
   opacity: 0.8;
   font-weight: normal;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   /* Distância entre o nick e as badges */
 }
 
@@ -126,13 +126,13 @@ video {
 .bio {
   font-size: 1em;
   /* Tamanho reduzido do texto da bio */
-  margin-top: 18px;
+  margin-top: 10px;
   /* Espaçamento entre a bio e as badges */
   opacity: 0.8;
 }
 
 .about-me {
-  margin-top: 25px;
+  margin-top: 15px;
   /* Espaçamento entre a bio e a seção "Sobre Mim" */
   opacity: 0.8;
   /* Opacidade da seção "Sobre Mim" */
@@ -402,6 +402,6 @@ video {
   word-break: break-all;
   text-overflow: ellipsis;
   overflow: hidden !important;
-  max-height: 80px;
-  font-size: 10px;
+  max-height: 130px;
+  font-size: 15px;
 }
